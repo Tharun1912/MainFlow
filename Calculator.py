@@ -25,4 +25,4 @@ def calculator(a, b, ch):
         return "Invalid operation"
 
 result = calculator(a, b, ch)
-print(f"Output of {a} {ch} {b}", result)
+print("The result is:", result)
